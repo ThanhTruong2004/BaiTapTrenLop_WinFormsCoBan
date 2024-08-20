@@ -1,0 +1,16 @@
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\bin\Debug\net8.0-windows\2212462_TH_WindowsForms.exe
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\bin\Debug\net8.0-windows\2212462_TH_WindowsForms.deps.json
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\bin\Debug\net8.0-windows\2212462_TH_WindowsForms.runtimeconfig.json
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\bin\Debug\net8.0-windows\2212462_TH_WindowsForms.dll
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\bin\Debug\net8.0-windows\2212462_TH_WindowsForms.pdb
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\_2212462_TH_WindowsForms.MainForm.resources
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\2212462_TH_WindowsForms.csproj.GenerateResource.cache
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\2212462_TH_WindowsForms.GeneratedMSBuildEditorConfig.editorconfig
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\2212462_TH_WindowsForms.AssemblyInfoInputs.cache
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\2212462_TH_WindowsForms.AssemblyInfo.cs
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\2212462_TH_WindowsForms.csproj.CoreCompileInputs.cache
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\2212462_TH_WindowsForms.dll
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\refint\2212462_TH_WindowsForms.dll
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\2212462_TH_WindowsForms.pdb
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\2212462_TH_WindowsForms.genruntimeconfig.cache
+D:\2212462_TH_WinForms\2212462_TH_WindowsForms\2212462_TH_WindowsForms\obj\Debug\net8.0-windows\ref\2212462_TH_WindowsForms.dll
